@@ -3,11 +3,13 @@ n = num2 + num1
 end
 
 def subtraction(num1, num2)
-n = num2 - num1
+n = Math.abs(num2 - num1)
+
 end
 
 def division(num1, num2)
 n = num2 / num1
+
 end
 
 def multiplication(num1, num2)
