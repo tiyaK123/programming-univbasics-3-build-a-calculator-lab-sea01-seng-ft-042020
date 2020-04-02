@@ -8,7 +8,7 @@ n = num1 - num2
 end
 
 def division(num1, num2)
-n = num2 / num1
+n = num1 / num2
 
 end
 
@@ -17,7 +17,7 @@ n = num2 * num1
 end
 
 def modulo(num1, num2)
-n = num2 % num1
+n = num1 % num2
 end
 
 def square_root(num)
