@@ -3,7 +3,7 @@ n = num2 + num1
 end
 
 def subtraction(num1, num2)
-n = Math.abs(num2 - num1)
+n = num1 - num2
 
 end
 
